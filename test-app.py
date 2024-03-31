@@ -7,3 +7,6 @@ st.write("I love my family to death")
 st.write("I'm slim shady")
 
 st.write("what's up?")
+
+
+st.write("It's new app")
